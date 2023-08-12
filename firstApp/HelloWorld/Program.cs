@@ -35,6 +35,9 @@
             Console.WriteLine(5 * 8); // Multiplycation
             Console.WriteLine(5.0 / 2.0); // Divition
             Console.WriteLine(5.0 % 2.0); // Module
+
+            // Strings interpolation
+            Console.WriteLine($"Tines {yearsOld} años de edad");
         }
     }
 }
