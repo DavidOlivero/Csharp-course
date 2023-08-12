@@ -55,6 +55,12 @@
             int students1, students2, students3, students4 = 1000;
             students1 = students2 = students3 = students4;
             Console.WriteLine($"The sum of the amount school students is {students1 + students2 + students3 + students4} students");
+
+            // Implicit declaration
+            var num = 24;
+            Console.WriteLine(num);
+
+            // num = 34.8; -> Once declarated is not allowed cange the data type
         }
     }
 }
