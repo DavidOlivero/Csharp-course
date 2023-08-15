@@ -1,0 +1,15 @@
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\bin\Debug\net7.0\TryMethots.exe
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\bin\Debug\net7.0\TryMethots.deps.json
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\bin\Debug\net7.0\TryMethots.runtimeconfig.json
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\bin\Debug\net7.0\TryMethots.dll
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\bin\Debug\net7.0\TryMethots.pdb
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\TryMethots.csproj.AssemblyReference.cache
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\TryMethots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\TryMethots.AssemblyInfoInputs.cache
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\TryMethots.AssemblyInfo.cs
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\TryMethots.csproj.CoreCompileInputs.cache
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\TryMethots.dll
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\refint\TryMethots.dll
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\TryMethots.pdb
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\TryMethots.genruntimeconfig.cache
+C:\Users\David Olivero\Documents\Mis cursos\C#\Methots\TryMethots\obj\Debug\net7.0\ref\TryMethots.dll
