@@ -12,6 +12,8 @@
             short
             int
             long
+            float
+            double
             -> Unsigned
             byte
             ushort
@@ -61,6 +63,16 @@
             Console.WriteLine(num);
 
             // num = 34.8; -> Once declarated is not allowed cange the data type
+
+            // Explicit declaration or casting
+            double temperature = 34.5;
+            int currentlyTemperature = (int) temperature;
+            Console.WriteLine(currentlyTemperature);
+
+            // Implicit declaration
+            int peoples = 1000000;
+            long cityPeoples = peoples;
+            Console.WriteLine(cityPeoples);
         }
     }
 }
