@@ -64,15 +64,27 @@
 
             // num = 34.8; -> Once declarated is not allowed cange the data type
 
-            // Explicit declaration or casting
+            // Explicit conversion or casting
             double temperature = 34.5;
             int currentlyTemperature = (int) temperature;
             Console.WriteLine(currentlyTemperature);
 
-            // Implicit declaration
+            // Implicit conversion
             int peoples = 1000000;
             long cityPeoples = peoples;
             Console.WriteLine(cityPeoples);
+
+            // Convert Strings to number
+            Console.WriteLine("|-> Into the numbers for add them up <-|");
+
+            Console.WriteLine("Into the first number");
+            int firstNumber = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Into the secon number");
+            int secondNumber = int.Parse(Console.ReadLine());
+
+            int result = firstNumber + secondNumber;
+            Console.WriteLine($"The addition of {firstNumber} and {secondNumber} is {result}");
         }
     }
 }
