@@ -85,6 +85,19 @@
 
             int result = firstNumber + secondNumber;
             Console.WriteLine($"The addition of {firstNumber} and {secondNumber} is {result}");
+
+            // Constants -> They are values that don´t cahange
+            const int VALUE = 345;
+            Console.WriteLine("El valor de la constante es {0}", VALUE);
+
+            // Calculate the circle Radio
+            //const double PI = 3.1416;
+            
+            Console.WriteLine("Into the circle radio length");
+            double radio = double.Parse(Console.ReadLine());
+            double resultCircleArea = Math.PI * Math.Pow(radio, 2);
+
+            Console.WriteLine("The circle area is {0}", resultCircleArea);
         }
     }
 }
